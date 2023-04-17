@@ -28,7 +28,7 @@ public class App
         for(int i=1; i<=N; i++){
             //check if current number is prime
             if(isPrime(i)) {
-                System.out.print(i + " ");
+                System.out.print(i + "Jegan ");
             }
         }
 
